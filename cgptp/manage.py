@@ -22,4 +22,4 @@ if __name__ == '__main__':
     main()
 
 # https://www.youtube.com/watch?v=6K83dgjkQNw
-# 28:50
+# 38:23
